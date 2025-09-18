@@ -7,12 +7,44 @@
           "Value": "a1494e34-2b1a-44bf-b109-389283b8be02"
         },
         {
+          "SchemaColumnUId": "80cbe6f1-2f67-5a9c-1dc1-ea589df57e3c",
+          "Value": "#3DD3E1"
+        },
+        {
           "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
-          "Value": "\/Date(1758021361203+0300)\/"
+          "Value": "\/Date(1758101811103+0300)\/"
         },
         {
           "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
           "Value": "\/Date(1758021334919+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e86949e7-1ee6-4277-8e20-982a9c673fdb",
+          "Value": false
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "bd691f95-0a84-4597-9a63-c267b5ed36aa"
+        },
+        {
+          "SchemaColumnUId": "80cbe6f1-2f67-5a9c-1dc1-ea589df57e3c",
+          "Value": "#808080"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1758101838015+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1758023634711+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e86949e7-1ee6-4277-8e20-982a9c673fdb",
+          "Value": true
         }
       ]
     },
@@ -23,12 +55,20 @@
           "Value": "e0618bad-ea39-4c8f-9095-e275d4b67dc1"
         },
         {
+          "SchemaColumnUId": "80cbe6f1-2f67-5a9c-1dc1-ea589df57e3c",
+          "Value": "#DBDB43"
+        },
+        {
           "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
-          "Value": "\/Date(1758021353365+0300)\/"
+          "Value": "\/Date(1758101797663+0300)\/"
         },
         {
           "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
           "Value": "\/Date(1758021326775+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e86949e7-1ee6-4277-8e20-982a9c673fdb",
+          "Value": false
         }
       ]
     }
