@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "d8e5ff71-18d9-9a83-ba56-a7264ebb3b35",
+    "Name": "EnableRootTriggerMSSQL",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1758190357000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
