@@ -1023,7 +1023,7 @@ define("UsrYacht_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 				request: "usr.PushButtonRequest",
 				/* Implementation of the custom query handler. */
 				handler: async (request, next) => {
-					console.log("Button works...");
+					console.log("Button works.........!!!!!!");
 					Terrasoft.showInformation("My button was pressed.");
 					var price = await request.$context.PDS_UsrPrice_2ytpejn;
 					console.log("Price = " + price);
