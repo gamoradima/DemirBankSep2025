@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ebb996ed-5b29-460c-9f82-c4435948c050",
+    "Name": "UsrAutoAddYachtRentalProcess",
+    "ModifiedOnUtc": "\/Date(1758709080000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Auto add yacht rental process",
+    "DependsOn": []
+  }
+}
